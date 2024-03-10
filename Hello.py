@@ -26,6 +26,15 @@ def run():
 
     st.write("# Hello!👋 My name is Jelly Belly")
 
+    st.markdown(
+        """
+        I am half-Korean half-Singaporean.
+        I like K-pop music.
+    """
+    )
+
+
+    
     st.sidebar.success("Select a demo above.")
 
     st.markdown(
